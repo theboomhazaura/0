@@ -1,0 +1,17 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "wills textures",
+    "description": "My custom pack",
+    "uuid": "bbf442ae-719e-416a-a61b-e990a5455968",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 21, 0]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "ce000ec8-1d4c-4d3f-b4d7-5c4a5ffa9cb8",
+      "version": [1, 0, 0]
+    }
+  ]
+}
